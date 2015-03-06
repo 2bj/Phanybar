@@ -17,7 +17,9 @@
       "Bakyt\\": ["src/"]
     }
   },
-  "require": {},
+  "require": {
+    "php": ">=5.3.0"
+  },
   "bin": [
     "bin/phanybar"
   ]
