@@ -1,0 +1,21 @@
+#!/usr/bin/env php
+<?php require __DIR__.'/../vendor/autoload.php';
+
+if (!isset($argv[1]))
+{
+    echo "Color?";
+    exit(1);
+}
+
+$phanybar = new \Bakyt\Console\Phanybar;
+
+if (isset($argv[2]))
+{
+    $phanybar->send($argv[1], $argv[2]);
+}
+else
+{
+    $phanybar->send($argv[1]);
+}
+
+

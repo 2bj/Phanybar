@@ -1,0 +1,24 @@
+{
+  "name": "2bj/phanybar",
+  "description": "Control AnyBar from your php",
+  "keywords": [
+    "phanybar",
+    "anybar"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bakyt Turgumbaev",
+      "email": "dev2bj@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bakyt\\": ["src/"]
+    }
+  },
+  "require": {},
+  "bin": [
+    "bin/phanybar"
+  ]
+}
