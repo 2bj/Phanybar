@@ -8,7 +8,7 @@ Control [AnyBar](https://github.com/tonsky/AnyBar) from the command line or from
 
 The usual :
 ```
-composer [global] require 2bj/phanybar
+composer global require 2bj/phanybar
 ```
 
 ## Usage
