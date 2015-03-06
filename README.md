@@ -1,6 +1,4 @@
-# Phanybar
-[![Latest Stable Version](https://poser.pugx.org/2bj/phanybar/v/stable.svg)](https://packagist.org/packages/2bj/phanybar)
-[![License](https://poser.pugx.org/2bj/phanybar/license.svg)](https://packagist.org/packages/2bj/phanybar)
+# Phanybar [![Packagist](https://img.shields.io/packagist/v/2bj/phanybar.svg?style=flat-square)]() [![Packagist](https://img.shields.io/packagist/l/2bj/phanybar.svg?style=flat-square)]()
 
 Control [AnyBar](https://github.com/tonsky/AnyBar) from the command line or from your php code
 
